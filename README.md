@@ -28,7 +28,7 @@ The dataset includes the following features:
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - Python 
 - Jupyter Notebook 
